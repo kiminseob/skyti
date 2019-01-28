@@ -1,0 +1,8 @@
+# env
+*.env
+
+#modules
+node_modules/
+
+#json
+*json
